@@ -166,21 +166,20 @@ body {
 }
 
 .social-icons {
-   font-size: 24px;
+   font-size: 30px;
    display: flex;
    justify-content: center;
    align-items: center;
-   margin: 10px 0;
+   margin: 15px 0;
 }
 
 .social-icons a {
    color: var(--text);
    text-decoration: none;
    margin: 0 10px;
-   transition: color 0.3s ease;
+   transition: color 0.5s ease;
 }
 
 .social-icons a:hover {
    color: #FF7400;
 }
- 
